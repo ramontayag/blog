@@ -10,3 +10,5 @@ gem "builder", "~> 3.0"
 
 gem "haml", "~> 4.0"
 gem "sass", "~> 3.2"
+
+gem "nokogiri"
