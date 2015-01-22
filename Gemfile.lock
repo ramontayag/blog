@@ -118,5 +118,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder (~> 3.0)
+  haml (~> 4.0)
   middleman (~> 3.3.7)
   middleman-blog (~> 3.5.3)
+  sass (~> 3.2)

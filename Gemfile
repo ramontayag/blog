@@ -7,3 +7,6 @@ gem "middleman-blog", "~> 3.5.3"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+
+gem "haml", "~> 4.0"
+gem "sass", "~> 3.2"
