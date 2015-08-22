@@ -12,3 +12,6 @@ gem "haml", "~> 4.0"
 gem "sass", "~> 3.2"
 
 gem "nokogiri"
+
+gem 'pry'
+gem 'middleman-s3_sync'
